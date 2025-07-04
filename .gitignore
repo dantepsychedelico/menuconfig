@@ -1,3 +1,5 @@
-/build/
-*.sw?
-*~
+*.o
+*.a
+parser.tab.c
+parser.tab.h
+mconf
